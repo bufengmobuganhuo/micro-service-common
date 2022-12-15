@@ -1,0 +1,6 @@
+{
+  "host": "localhsot",
+  "port": 3306,
+  "user": "root",
+  "database": "micro"
+}
